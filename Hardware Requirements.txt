@@ -1,0 +1,11 @@
+Hardware Requirement
+
+1. Arduino Uno
+2. Arduino Nano
+3. Ultrasonic sensor
+4. GSM module
+5. GPS module
+6. Water Sensor
+7. Jumper Wires
+8. Switch
+9. Batteries
